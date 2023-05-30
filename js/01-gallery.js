@@ -37,3 +37,4 @@ galleryContainer.addEventListener("click", (event) => {
 
   instance.show();
 });
+console.log(galleryItems);
